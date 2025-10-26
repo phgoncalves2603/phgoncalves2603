@@ -13,7 +13,7 @@ Hi, I’m Pedro Pinto, a Computer Science student and researcher at Kennesaw Sta
 | API Design and Integration       | Kubernetes and Container Orchestration      |
 | Automation and DevOps Practices  | Continuous Deployment & Monitoring Tools    |
 ---
-### 🤖 Tech Stack
+### Tech Stack
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 <img
     alt="Java"
@@ -123,11 +123,12 @@ Hi, I’m Pedro Pinto, a Computer Science student and researcher at Kennesaw Sta
     src="https://github-readme-stats.vercel.app/api?username=phgoncalves2603&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phgoncalves2603&theme=tokyonight&layout=compact&custom_title=Tech Stack&langs_count=5" 
-  />
+  align="left"
+  alt="GitHub Stats"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=phgoncalves2603&theme=tokyonight&layout=compact&custom_title=Tech%20Stack&langs_count=5&cache_bust=1"
+/>
+
 
 </p>
 </div>
