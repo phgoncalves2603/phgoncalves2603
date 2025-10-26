@@ -112,7 +112,8 @@ Hi, I’m Pedro Pinto, a Computer Science student and researcher at Kennesaw Sta
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 </div>
-<br/>
+<br>
+<br>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 <p>
   <img 
