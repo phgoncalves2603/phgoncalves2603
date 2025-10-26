@@ -114,18 +114,17 @@ Hi, I’m Pedro Pinto, a Computer Science student and researcher at Kennesaw Sta
 </div>
 <br>
 <br>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center">
 <p>
   <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=phgoncalves2603&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-  
 <img 
   alt="GitHub Stats"
-  height="200"
+  height="180"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=phgoncalves2603&theme=tokyonight&layout=compact&custom_title=Tech%20Stack&langs_count=5&cache_bust=1"
 />
 
