@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Pedro Pinto
 
-**`Student Researcher`**
+**` Student Researcher`**
 
 
 Hi, I’m Pedro Pinto, a Computer Science student and researcher at Kennesaw State University. I have a strong background in machine learning and computer vision, but recently I’ve shifted my focus toward backend development and system design. I’m passionate about building reliable, scalable applications and exploring how backend systems power real-world software.
@@ -13,7 +13,8 @@ Hi, I’m Pedro Pinto, a Computer Science student and researcher at Kennesaw Sta
 | API Design and Integration       | Kubernetes and Container Orchestration      |
 | Automation and DevOps Practices  | Continuous Deployment & Monitoring Tools    |
 ---
-### Tech Stack
+## Tech Stack
+
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 <img
     alt="Java"
@@ -112,15 +113,16 @@ Hi, I’m Pedro Pinto, a Computer Science student and researcher at Kennesaw Sta
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 </div>
-<br>
-<br>
+
+## GitHub Stats
+
 <div align="center">
 <p>
   <img 
     alt="GitHub Stats" 
     height="165" 
     style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=phgoncalves2603&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=phgoncalves2603&theme=tokyonight&include_all_commits=true&locale=en" 
   /> 
 <img 
   alt="GitHub Stats"
